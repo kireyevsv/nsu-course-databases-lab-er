@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 SberBrowser/28.0.0.0" version="28.1.0">
   <diagram name="Страница — 1" id="PypttH6zNoz-QvYXqI3y">
-    <mxGraphModel dx="2444" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -303,8 +303,8 @@
             <mxPoint x="255" y="880" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xeVAntSfT_mm_CtjddxO-116" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Нотация Чена&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="400" y="670" width="130" height="30" as="geometry" />
+        <mxCell id="xeVAntSfT_mm_CtjddxO-116" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Нотация Чена, вариант 2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="400" y="670" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xeVAntSfT_mm_CtjddxO-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="xeVAntSfT_mm_CtjddxO-118" target="xeVAntSfT_mm_CtjddxO-105">
           <mxGeometry relative="1" as="geometry">
