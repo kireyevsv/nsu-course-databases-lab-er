@@ -1,14 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 SberBrowser/30.0.0.0" version="28.1.1">
   <diagram name="Страница — 1" id="eDHokSOOl7qRztb6YLrN">
-    <mxGraphModel dx="1372" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1192" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="StwYLbdjrq-6f2KhCl4q-1" value="Id" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="60" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="IZnIiaBtFyeUTnAaP6xX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="IZnIiaBtFyeUTnAaP6xX-14" target="IZnIiaBtFyeUTnAaP6xX-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="40" y="490" />
-              <mxPoint x="40" y="400" />
+              <mxPoint x="40" y="540" />
+              <mxPoint x="40" y="376" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -17,8 +20,8 @@
             <mxPoint x="-220" y="395" as="sourcePoint" />
             <mxPoint x="-150" y="350" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="40" y="460" />
-              <mxPoint x="40" y="400" />
+              <mxPoint x="40" y="510" />
+              <mxPoint x="40" y="376" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -76,10 +79,10 @@
           <mxGeometry x="100" y="740" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IZnIiaBtFyeUTnAaP6xX-12" value="Дата поступления" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="60" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="60" y="490" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IZnIiaBtFyeUTnAaP6xX-14" value="Дата выписки" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="60" y="470" width="120" height="40" as="geometry" />
+          <mxGeometry x="60" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IZnIiaBtFyeUTnAaP6xX-16" value="Диагноз" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="450" width="150" height="50" as="geometry" />
@@ -420,6 +423,16 @@
             <Array as="points">
               <mxPoint x="930" y="600" />
               <mxPoint x="930" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="StwYLbdjrq-6f2KhCl4q-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="StwYLbdjrq-6f2KhCl4q-1" target="IZnIiaBtFyeUTnAaP6xX-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="610" as="sourcePoint" />
+            <mxPoint x="60" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="480" />
+              <mxPoint x="40" y="376" />
             </Array>
           </mxGeometry>
         </mxCell>
