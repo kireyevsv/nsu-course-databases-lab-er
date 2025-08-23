@@ -302,7 +302,7 @@
           <mxGeometry x="770" y="90" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IZnIiaBtFyeUTnAaP6xX-60" value="Врач" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="595" width="140" height="210" as="geometry" />
+          <mxGeometry x="720" y="589" width="140" height="210" as="geometry" />
         </mxCell>
         <mxCell id="IZnIiaBtFyeUTnAaP6xX-61" value="Id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=4" parent="IZnIiaBtFyeUTnAaP6xX-60" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -343,7 +343,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IZnIiaBtFyeUTnAaP6xX-74" value="Пациент" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="401" width="140" height="150" as="geometry" />
+          <mxGeometry x="720" y="385" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="IZnIiaBtFyeUTnAaP6xX-75" value="Id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=4" parent="IZnIiaBtFyeUTnAaP6xX-74" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
